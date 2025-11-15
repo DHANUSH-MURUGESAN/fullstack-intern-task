@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 Tech Stack
 
-**Frontend:** React.js / HTML / CSS / JavaScript  
+**Frontend:** React.js / HTML / CSS / JavaScript / Tailwind CSS
 **Backend:** Node.js / Express.js  
 **Database:** MongoDB  
 
